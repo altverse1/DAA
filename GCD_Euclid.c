@@ -18,6 +18,3 @@ int main()
     printf("GCD of 24 and 10 is %d",gcd(36,12));
     return 0;
 }
-
-
-//https://drive.google.com/drive/folders/1yQSpoEqDptjEyZbyZ6Vvs_bIhCD5jC7x?usp=sharing
