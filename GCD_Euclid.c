@@ -1,3 +1,7 @@
+//Compute GCD(m,n) by Euclid's algorithm
+//Input: Two non-negative, not both zero integers m and n
+//Output: Greates common divisor of m and n
+
 #include <stdio.h>
 #include <stdlib.h>
 

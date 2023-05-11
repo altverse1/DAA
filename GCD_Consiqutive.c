@@ -1,4 +1,7 @@
-//Consiquitive integer checking algo
+//Compute GCD(m,n) by consiqutive Integer checking
+//Input: Two non-negative, not both zero integers m and n
+//Output: Greatest common divisor of m and n
+
 #include <stdio.h>
 #include <stdlib.h>
 
