@@ -2,7 +2,6 @@
 //Input: A positive integer n>1
 //Output: Aray L of all prime numbers less than or equal to n
 
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
@@ -33,6 +32,8 @@ void gen_prime(int num)
             printf("%d",a[i]);
     }
 }
+
+
 
 int main()
 {
