@@ -7,12 +7,12 @@ This will contain notes and stuff for the lab(I guess.)
 
 ## Program List
 
-|S.no|Name|Link|
+|S.no|Name|Date|
 |---|---|---|
-|1|GCD Consiquitive|[GCD_Consiqutive.c](/GCD_Consiqutive.c)|
-|2|GCD_Euclid|[GCD_Euclid.c](/GCD_Euclid.c)|
-|4|GCD_Middle_School|[GCD_MiddleSchool.c](/GCD_MiddleSchool.c)|
-|4|Sieves|[Sievs.c](/Sievs.c)|
+|1|[GCD_Consiqutive.c](/GCD_Consiqutive.c)|3/5/23|
+|2|[GCD_Euclid.c](/GCD_Euclid.c)|3/5/23|
+|4|[(inprogress_messedup_scaryaf)GCD_MiddleSchool.c](/GCD_MiddleSchool.c)|10/5/23|
+|4|[Sievs.c](/Sievs.c)|10/5/24|
 
 
 
