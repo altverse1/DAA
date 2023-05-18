@@ -1,6 +1,9 @@
 //Implements the sieve of Eratoshtenes
 //Input: A positive integer n>1
 //Output: Aray L of all prime numbers less than or equal to n
+// IF ERR: undefined reference to 'sqrt' then:
+    // compile using: gcc Sievs.c -o sievs -lm
+    // run: ./sievs
 
 #include <stdio.h>
 #include <stdlib.h>
@@ -29,7 +32,7 @@ void gen_prime(int num)
     for(int i = 0; i<num; i++)
     {
         if(a[i]!=0)
-            printf("%d",a[i]);
+            printf("%d ",a[i]);
     }
 }
 
