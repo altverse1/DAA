@@ -16,7 +16,7 @@ void display(int x[10][10], int row, int col)
     {
         printf("\n");
         for(j=0;j<col;j++)
-        printf("%d\t", x[i][j]);
+            printf("%d\t", x[i][j]);
 
     }
 }
@@ -57,13 +57,13 @@ int main()
 
 
     printf("Enter the elements of the second matrix: ");
-    read(b,q,p);
+    read(b,p,q);
 
     printf("The entered first matrix is \n");
     display(a,m,n);
 
     printf("\nThe entered second matrix is \n");
-    display(b,q,p);
+    display(b,p,q);
 
     multiply(a,b,c,m,n,q);
 
