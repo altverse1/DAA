@@ -17,7 +17,7 @@ This will contain notes and stuff for the lab(I guess.)
 |6|[Matrix Multiplication](./matmulti.c)|25/5/23|
 |7|[Largest ELement in a List](./largestelement.c)|25/5/23|
 |8|[Factorial of a number](./factorial.c)|25/5/23|
-
+|9|[Uniqueness of arrayDONT WRITE THIS IN RECORD](./uniquenessofarr.c)|25/5/23|
 
 
 
