@@ -14,6 +14,11 @@ This will contain notes and stuff for the lab(I guess.)
 |4|[GCD_MiddleSchool](./gcdmiddlemanual.c)|10/5/23|
 |4|[Sievs](/Sievs.c)|10/5/23|
 |5|[LinearSearch](./linearsearch.c)|18/5/23|
+|6|[Matrix Multiplication]()|25/5/23|
+|7|[Largest ELement in a List]()|25/5/23|
+|8|[Factorial of a number]()|25/5/23|
+
+
 
 
 
