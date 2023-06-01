@@ -18,6 +18,10 @@ This will contain notes and stuff for the lab(I guess.)
 |7|[Largest ELement in a List](./largestelement.c)|25/5/23|
 |8|[Factorial of a number](./factorial.c)|25/5/23|
 |9|[Uniqueness of arrayDONT WRITE THIS IN RECORD](./uniquenessofarr.c)|25/5/23|
+|10|[Bubble Sort](./bubble.c)|1/6/23|
+|11|[Selection Sort](./selectionsort.c)|1/6/23|
+|12|[Fibonacci](./factorial.c)|1/6/23|
+|13|[Tower Of Hanoi](./towerhanoi.c)|1/6/23|
 
 
 
