@@ -20,7 +20,7 @@ This will contain notes and stuff for the lab(I guess.)
 |9|[Uniqueness of arrayDONT WRITE THIS IN RECORD](./uniquenessofarr.c)|25/5/23|
 |10|[Bubble Sort](./bubble.c)|1/6/23|
 |11|[Selection Sort](./selectionsort.c)|1/6/23|
-|12|[Fibonacci](./factorial.c)|1/6/23|
+|12|[Fibonacci](./fibonacci.c)|1/6/23|
 |13|[Tower Of Hanoi](./towerhanoi.c)|1/6/23|
 
 
