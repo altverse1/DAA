@@ -68,6 +68,6 @@ int main()
     time = ((double)stop-(double)start)/CLOCKS_PER_SEC;
     for(int i = 0; i<n; i++)
         printf("%d ",arr[i]);
-    printf("\n The time taken is: %f",time);
+    printf("\n The time taken is: %.1000lf",time);
     return 0;
 }
